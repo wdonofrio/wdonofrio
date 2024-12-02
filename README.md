@@ -4,20 +4,9 @@ I’m William D'Onofrio, a passionate Python developer, data scientist, mentor, 
 
 ## What I've Been Up To
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/LordDashMe/github-contribution-stats/">
-        <img src="https://github-contribution-stats.vercel.app/api/?username=wdonofrio" alt="Contribution Stats"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=wdonofrio&theme=github" alt="Contribution Graph"/>
-      </a>
-    </td>
-  </tr>
-</table>
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=wdonofrio)](https://github.com/LordDashMe/github-contribution-stats/)
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=wdonofrio&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 👨‍💻 Notable Projects
 
