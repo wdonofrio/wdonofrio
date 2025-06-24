@@ -24,8 +24,9 @@ Languages:
 
 Frameworks & Libraries:
 
-- Data: numpy, pandas, matplotlib, seaborn, plotly
+- Data: numpy, pandas, matplotlib, seaborn, plotly, dask
 - Web Apps: streamlit, dash, Reflex
+- CLI Apps: typer, rich
 - Tools: Poetry, UV, Hatch, Github Actions
 
 ## 🌟 About Me
